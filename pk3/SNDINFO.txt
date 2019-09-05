@@ -1,0 +1,32 @@
+THUNDER2 THUNDER2
+THUNDER3 THUNDER3
+BUBBLAMB BUBBLAMB
+BUBBLE	BUBBLE
+SND_LAVA	SND_LAVA
+BROOK1	BROOK1
+JUMPPAD		JUMPPAD
+COMP1	COMP1
+COMP22	COMP22
+COMP3	COMP3
+FAN1	FAN1
+WIND01	WIND01
+
+///   #Terrain Sounds#
+slime				dsmuck
+slimesmall			dsmucksm
+water				dsgloop
+watersmall			dsgloop2
+burn				dsburn
+burnsmall			dsburnsm
+blood 				dsgloop1
+bloodsmall 			dsgloop2
+
+$AMBIENT 1 BROOK1 Point continuous 0.4
+$AMBIENT 2 BUBBLAMB Point continuous 0.4
+$AMBIENT 3 SND_LAVA Point random 10.0 20.0 0.4
+$AMBIENT 4 BUBBLE Point random 8.0 20.0 0.4
+$AMBIENT 5 COMP1 Point random 30.0 45.0 0.4
+$AMBIENT 6 COMP22 Point random 15.0 25.0 0.4
+$AMBIENT 7 COMP3 Point random 30.0 60.0 0.4
+$AMBIENT 8 WIND01 World Continuous 0.4
+$AMBIENT 9 FAN1 Point continuous 0.2

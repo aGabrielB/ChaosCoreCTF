@@ -1,0 +1,263 @@
+map core00 "Welcome to ChaosCore CTF"
+sky1 STRY2A 0.0
+music DCORE00
+next core01
+
+map core01 "Data Core Delta by GhoulSlayeR"
+sky1 RSK1 0.0
+sky2 BSK1 0.0
+music DCORE01
+next core02
+
+map core02 "Cosmic Wall by Caution"
+sky1 SPACESK1 0.0
+music DCORE02
+next core03
+
+map core03 "Avalon by RoSKing"
+sky1 STRY2A 0.3
+sky2 STRY1A 0.3
+music DCORE03
+next core04
+
+map core04 "Frozen Chaos by AlexMax"
+sky1 HEXSKY5A 0.1
+music DCORE04
+next core05
+
+map core05 "Plan B by Collision"
+sky1 STSKY14 0.0
+music DCORE05
+next core06
+
+map core06 "Circuit Course by Infer"
+sky1 STRY2A 0.0
+music DCORE06
+next CORE07
+
+map core07 "Deimos Hazzard Zone by GhoulSlayeR"
+sky1 sky1 0.0
+music DCORE07
+next core08
+
+map core08 "Periphery of Phobos by RoSKing and GhoulSlayeR"
+sky1 STRYD1 0.3
+music DCORE08
+next core09
+
+map core09 "Obsidian Outpost by Caution"
+sky1 SPSK1 0.2
+music DCORE09
+next core10
+
+map core10 "Plan B by Collision"
+sky1 SKY2A 0.1
+music DCORE10
+next core11
+
+map core11 "Isolation by RoSKing"
+sky1 stsky7 0.0
+music DCORE11
+next core12
+
+map core12 "Scourge by Collision"
+sky1 SKY3 0.0
+music DCORE12
+next core13
+
+map core13 "Forsaken Grounds by Infer" 
+sky1 SKY10B 0.0
+music DCORE13
+next core14
+
+map core14 "Speed of Dark by AlexMax"
+sky1 SKBLUP 0.0
+music DCORE14
+next core15
+
+map core15 "Andromeda Installation by RoSKing"
+sky1 STRYD1 0.0
+music D_DM2TTL
+next core16
+
+map core16 "[Core]T Facility by GhoulSlayeR"
+sky1 SKBLUP 0.0
+music DCORE16
+next core17
+
+map core17 "Sentinel by Iced"
+sky1 STRY2A 0.0
+music DCORE17
+next core18
+
+map core18 "The Chaos Encounter by Shane"
+music DCORE18
+sky1 SKY2A 0.0
+music DCORE18
+next core19
+
+map core19 "Wanderlust by RoSKing"
+music DCORE19
+sky1 STRYD1 0.0
+music DCORE19
+next core20
+
+map core20 "The Hex Core by Infer"
+sky1 SKY10B 0.0
+music DCORE20
+next core21
+
+map core21 "Planetary Duality by RoSKing"
+sky1 STRYD1 0.0
+sky2 STRY2A 0.0
+music DCORE21
+next core22
+
+map core22 "Hangar of Desolation by Caution"
+sky1 SPACESK1 0.0
+music DCORE22
+next core23
+
+map core23 "Sublime Remediation by Shane"
+sky1 STRYC1 0.1
+music DCORE23
+next core24
+
+map core24 "Towering Gardens by AlexMax"
+music DCORE24
+sky1 STSKY7 0.0
+next core25
+
+map core25 "Data Core Zeta by GhoulSlayeR and RoSKing"
+sky1 BSK1 0.0
+sky2 RSK1 0.0
+music DCORE25
+next core26
+
+map core26 "Mephitic Waste by RoSKing"
+music DCORE26
+next core27
+sky1 STRYC1 0.0
+
+map core27 "Compulsive Simplicity by Shane"
+music DCORE27
+sky1 HEXSKY4A 0.0
+next core28
+
+map core28 "Titania Base By JCD"
+sky1 JCSKY 0.1
+music DCORE28
+next core29
+
+map core29 "Toxic Refineries II by Fsn76"
+sky1 GRNSKY 0.1
+music DCORE29
+next core30
+
+map core30 "Sunrise by Oxyde"
+EvenLighting
+DoubleSky
+Sky1 SKY28 0.0
+Sky2 OX_SKYE2 0.0
+Music DCORE30
+Next core31
+
+map core31 "Reign of Atonement by RoSKing"
+music DCORE31
+sky1 STRYD1 0.3
+next core32
+
+map core32 "Conjugation by Shane"
+music DCORE32
+sky1 HEXSKY4A 0.0
+next core33
+
+map core33 "Tundra Terminal by Caution"
+music DCORE33
+sky1 RSKY8 0.0
+next core34
+
+map core34 "Clash of the Underworld by SwordGrunt"
+music DCORE34
+sky1 SKY3 0.0
+next core35
+
+map core35 "Black Rock Spire by RoSKing"
+music DCORE35
+sky1 SKY10B 0.0
+next core36
+
+map core36 "Red Shift By JCD"
+music DCORE36
+next core37
+
+map core37 "Solar Station by Collision"
+music DCORE37
+sky1 STSKY14 0.0
+next core38
+
+map core38 "Obelisk by Capt.J3 & RoSKing"
+music DCORE38
+sky1 SKY28 0.0
+next core41
+
+map core39 "Carribean Catastrophe by Caution"
+music DCORE39
+sky1 stsky7 0.0
+next core40
+
+map core40 "Invicto by Infer"
+music DCORE40
+sky1 SKY9 0.0
+next core42
+
+map core41 "Phazon Extraction by GhoulSlayeR"
+sky1 SKBLUP 0.0
+music DCORE41
+next core42
+
+map core42 "untitled by Collision"
+music DCORE42
+sky1 RSKY8 0.0
+next core43
+
+map core43 "Acid Trip By RoSKing"
+sky1 HEXSKY4A 0.3
+music DCORE43
+next core44
+
+map	core44 "Unnamed by Caution"
+sky1 SKREDP 0.0
+music DCORE44
+next core45
+
+map core45 "Two Dam Nations"
+sky1 sky9 0.0
+music DCORE45
+next core46
+
+map core47 "Hot Pursuit by Shane"
+sky1 GRNSKY 0.0
+music DCORE47
+next core48
+
+map core48 "Demonic Sanctuary by Capt.J3"
+sky1 stsky7 0.0
+sky1 HEXSKY5A 0.0
+music DCORE48
+next core49
+
+map core49 "Schutzen by GaX"
+music DCORE49
+sky1 HEXSKY4A 0.3
+next core50
+
+map core50 "Hidden Palace Zone by GhoulSlayeR & RoSKing"
+sky1 SONICSKY 0.0
+music DCORE50
+next core01
+
+map POPTART "Poptart Cat by Collision"
+sky1 GRNSKY 0.1
+music DPOPCAT
+next core00

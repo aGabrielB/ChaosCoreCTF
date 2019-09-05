@@ -1,0 +1,23 @@
+texture GSGFONT1
+	pic 1 tics 8
+	pic 2 tics 8
+	pic 3 tics 8
+	
+texture GSGFONT4
+	pic 1 tics 8
+	pic 2 tics 8
+	pic 3 tics 8
+
+warp flat QLAVA
+warp2 flat NUKWRP
+warp2 flat SLMWRP
+warp2 flat WRPWATR
+warp2 flat LAVA
+warp2 flat BLDWRP
+warp2 flat XWAWRP
+warp2 flat LWAWRP
+warp2 flat SFLRWRP
+warp flat FIRBLWRP
+
+
+switch sw1red on pic sw2red tics 8 sound dsswtchn

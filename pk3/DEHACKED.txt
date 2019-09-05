@@ -1,0 +1,13 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.1.2 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Thing 105 (Hanging torso)
+Height = 2621440
+
+Thing 108 (Hanging torso 2)
+Height = 2621440

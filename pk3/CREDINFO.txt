@@ -1,0 +1,250 @@
+===========================================================================
+Advanced engine needed : Odamex / Zandronum / ZDaemon
+
+Primary purpose : Capture the Flag
+===========================================================================
+Title : ChaosCoreCTFmpIII
+Filename : ChaosCoreCTFmpIII-a.wad
+Release date : ????
+Authors : Agaures, AlexMax, Caution, Collision, GhoulSlayeR, Infer, RoSKing, Shane, Wideass
+
+Description : 
+Second installment of ChaosCoreCTF bringing 30 maps constructed around 3v3 & 4v4 competitive play,
+However not all maps are built for 3v3 & 4v4 competitive play; Most have been adjusted to these standards.
+ChaosCoreCTF acts as a stand alone wad and can be loaded with other wads without overwriting any maps or resources as a means to provide more content in Public and Private CTF.
+
+Additional Credits:
+The French Community Dislogical, Fsn76, JCD, KaraKurt, Kiwi, Oxyde for the support, making maps, and testing. You guys are awesome!
+Also another honorable mention for Fsn76 for the trailer
+Watakid for quality maintenance
+Abbuw for remaking the ChaosCore decal for more texture use.
+Agaures for the Color Palette and Texture customization.
+To everyone who Beta Tested; Alt_Stab, AVC, Beast, Bwidger, Cecil, Cennou, Chowww, Darklord, DemonSphere, Dislogical, Edd, Fsn76, Goblin,  JCD, Joseph_Hicks, Jwarrier, KaraKurt, Merk, Moti, Raddock, Saber, Slyfox, Stallion, Tai, Torvald, Water, Whopper and anyone else I may have forgotten.
+EsselFortium, 32in24 series, 2mbrown, decontex, DGDBTXTR, DoomPotpourri, mortres, nb5texd2, nb_flats, NB_RECOL, nb_silv, ogrodtex, quake1, quake2, quake3, TXGRAY, zdectfmp for ripped textures and flats.
+
+===========================================================================
+
+Map List
+
+===========================================================================
+
+Core01: Data Core Delta I by GhoulSlayeR
+
+Core02: Cosmic Wall by Caution (With help from RoSKing)
+
+Core03: Avalon by RoSKing (With help from Wideass)
+
+Core04: Frozen Chaos by AlexMax (With help from Caution)
+
+Core05: Plan B by Collision
+
+Core06: Circuit Course by Infer
+
+Core07: Deimos Hazzard Zone by GhoulSlayeR (With help from RoSKing)
+
+Core08: Periphery of Phobos by RoSKing & GhoulSlayeR
+
+Core09: Obsidian Outpost by Caution (With help from GhoulslayeR & RoSKing)
+
+Core10: Sector S by FranckFrag (With help from RoSKing)
+
+Core11: Isolation by RoSKing (With help from Wideass)
+
+Core12: Scourge by Collision (With help from RoSKing)
+
+Core13: Forsaken Grounds by Infer
+
+Core14: Speed of Dark by AlexMax (With help from SwordGrunt)
+
+Core15: Andromeda Installation by RoSKing
+
+Core16: [Core]T Facility by GhoulSlayeR (With help from RoSKing)
+
+Core17: Sentinel by Iced
+
+Core18: The Chaos Encounter by Shane (With help from RoSKing)
+
+Core19: Wanderlust by RoSKing
+
+Core20: The Hex Core by Infer
+
+Core21: Planetary Duality by RoSKing (With help from Wideass)
+
+Core22: Hangar of Desolation by Caution (With help from RoSKing)
+
+Core23: EastHaven by Edd (With help from Caution, Collision, RoSKing, & Sworgrunt)
+
+Core24: Towering Gardens by AlexMax
+
+Core25: Data Core Delta II by GhoulSlayeR & RoSKing
+
+Core26: Mephitic Waste by RoSKing (With help from Wideass)
+
+Core27: Compulsive Simplicity by Shane
+
+Core28: Titania Base by JCD
+
+Core29: Toxic Refineries II by Fsn76 (With help from RoSKing & Wideass)
+
+Core30: Sunrise by Oxyde
+
+Core31: Reign of Atonement by RoSKing (With help from Wideass)
+
+Core32: Demonic Sanctuary by Capt.J3 (With Help from RoSKing & Wideass)
+
+Core33: Toxic Dump by Edd (With help from Capt.J3, Caution, RoSKing, & Wideass)
+
+Core34: Clash of the Underworld (With help from RoSKing & Wideass)
+
+Core35: Black Rock Spire by RoSKing (With help from Wideass)
+
+Core36: Red Shift by JCD
+
+Core37: Submersed Stronghold by Edd (With help from Infer, RoSKing, & Wideass)
+
+Core38: Sublime Remedation by Shane
+
+Core39: Carribean Catastrophe by Caution (With help from Agaures, RoSKing & Wideass)
+
+Core40: Invicto by Infer
+
+POPTART: Poptart Cat by Collision
+
+===========================================================================
+
+" Music Credits "
+
+===========================================================================
+
+Title: ChaosCoreCTF by Brandon Egan
+
+Intermission: "My name is Darkness" by Haste the Day
+
+Map00 "Main Theme" from the game One Must Fall 2097
+
+Map01: "Xenon" from the game Dance Dance Revolution
+
+Map02: "Meteor Herd" from the game Sonic Adventure 2
+
+Map03: "Danger Room" from the game One Must Fall 2097
+
+Map04: "Satellite One" by Purple Motion
+
+Map05: "Aquarium" by 16-bit
+
+Map06: "look at the stars" (vibe-las.it)
+
+Map07: "Nuts and Bolts" from the game Donkey Kong Country 3
+
+Map08: "Resolve" by Haste The Day
+
+Map09: "Lava Reef Zone Act I" from the game Sonic the Hedgehog 3
+
+Map10: "Boomer Kwuanger" from the game MegaMan X
+
+Map11: " I saw the demons"(e2m1) from the game The Ultimate Doom
+
+Map12: "Meaning in Tragedy" by As I Lay Dying
+
+Map13: "Come Clarity" by In Flames
+
+Map14: "Doobtro" by Nightbeat
+
+Map15: ChaosCoreCTF by Brandon Egan
+	
+Map16: "Power Plant" from the game One Must Fall 2097: 
+
+Map17: "Beyond" from Mod Archive
+
+Map18: "Path of Destruction" by Mark Klem
+
+Map19: "Pumpkin Hill" from the game Sonic Adventure 2
+
+Map20: "Mad Man" by Haste The Day (Looped by Estar)
+
+Map21: "Biolizard" from the game Sonic Adventure 2
+
+Map22: "Chemical Zone" from the game Sonic II
+
+Map23: "Overworld" from the game Golden Sun 2
+
+Map24: "R0t0f3ul" by Rez
+
+Map25: "Hybrid Song 220" by Quazar
+
+Map26: "68" by Haste The Day
+
+Map27: "Ryu's Theme" from the game Street Fighter II 
+
+Map28: "Wolverine" by James Paddock
+
+Map29: "Area 1: City" from the game Mighty Morphin Power Rangers
+
+Map30: "Mansion Infiltration - Action" from the game Perfect Dark Zero (Looped by Chow)
+
+Map31: "Unnamed" by Estar
+
+Map32: Unknown
+
+Map33: Unknown
+
+Map34: "Final Boss" from the game Strife (Quest for the Sigil)
+
+Map35: from the game Warcraft II
+
+Map36: "The Arcanum Sanctum" by Estar
+
+Map37: "Aquatic Mine" from the game Sonic Adventure 2
+
+Map38: "Hiding the Secrets" from the game DooM
+
+Map39: "South Island Remix" by Estar
+
+Map40: Unknown
+
+POPTART: "Pixeltropia" by JosSs
+
+===========================================================================
+
+* What is included *
+
+New levels : Yes, See Maplist for credits
+Sounds : Yes
+Music : Yes
+Graphics : Yes
+Dehacked/BEX Patch : Yes
+Demos : No
+Other : No
+Other files required : None
+
+
+* Play Information *
+
+Game : DOOM2
+Map # : Core01 - Core40
+Single Player : Player starts only
+Cooperative 2-4 Player : No
+Deathmatch : No
+CTF : Yes
+Difficulty Settings : Nightmare
+
+
+* Construction *
+
+Base : New from scratch
+Build Time : 2011 - Current
+Editor(s) used : DoomBuilder, DoomBuilder2, GZDoom Builder, SLADE, XWE
+Known Bugs : None that we know of
+May Not Run With... :
+
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications. You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
