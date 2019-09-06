@@ -24,11 +24,11 @@ switch sw1red on pic sw2red tics 8 sound dsswtchn
 
 texture STRY1A range STRY1L tics 5
 texture STRY2A range STRY2L tics 5
-texture STRYC1 range STRYC12 tics 5
-texture STRYD1 range STRYD12 tics 5
+texture STRYC01 range STRYC12 tics 5
+texture STRYD01 range STRYD12 tics 5
 texture WFALL1 range WFALL4 tics 8
 texture LFALL1 range LFALL4 tics 8
 texture BWFALL1 range BWFALL4 tics 8
 texture LAVFALL1 range LAVFALL4 tics 8
-texture BSK1 range BSK32 tics 4
-texture RSK1 range RSK32 tics 4
+texture BSK01 range BSK32 tics 4
+texture RSK01 range RSK32 tics 4

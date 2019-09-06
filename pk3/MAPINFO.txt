@@ -4,8 +4,8 @@ music DCORE00
 next core01
 
 map core01 "Data Core Delta by GhoulSlayeR"
-sky1 RSK1 0.0
-sky2 BSK1 0.0
+sky1 RSK01 0.0
+sky2 BSK01 0.0
 music DCORE01
 next core02
 
@@ -41,7 +41,7 @@ music DCORE07
 next core08
 
 map core08 "Periphery of Phobos by RoSKing and GhoulSlayeR"
-sky1 STRYD1 0.3
+sky1 STRYD01 0.3
 music DCORE08
 next core09
 
@@ -76,7 +76,7 @@ music DCORE14
 next core15
 
 map core15 "Andromeda Installation by RoSKing"
-sky1 STRYD1 0.0
+sky1 STRYD01 0.0
 music D_DM2TTL
 next core16
 
@@ -98,7 +98,7 @@ next core19
 
 map core19 "Wanderlust by RoSKing"
 music DCORE19
-sky1 STRYD1 0.0
+sky1 STRYD01 0.0
 music DCORE19
 next core20
 
@@ -108,7 +108,7 @@ music DCORE20
 next core21
 
 map core21 "Planetary Duality by RoSKing"
-sky1 STRYD1 0.0
+sky1 STRYD01 0.0
 sky2 STRY2A 0.0
 music DCORE21
 next core22
@@ -119,7 +119,7 @@ music DCORE22
 next core23
 
 map core23 "Sublime Remediation by Shane"
-sky1 STRYC1 0.1
+sky1 STRYC01 0.1
 music DCORE23
 next core24
 
@@ -129,15 +129,15 @@ sky1 STSKY7 0.0
 next core25
 
 map core25 "Data Core Zeta by GhoulSlayeR and RoSKing"
-sky1 BSK1 0.0
-sky2 RSK1 0.0
+sky1 BSK01 0.0
+sky2 RSK01 0.0
 music DCORE25
 next core26
 
 map core26 "Mephitic Waste by RoSKing"
 music DCORE26
 next core27
-sky1 STRYC1 0.0
+sky1 STRYC01 0.0
 
 map core27 "Compulsive Simplicity by Shane"
 music DCORE27
@@ -164,7 +164,7 @@ Next core31
 
 map core31 "Reign of Atonement by RoSKing"
 music DCORE31
-sky1 STRYD1 0.3
+sky1 STRYD01 0.3
 next core32
 
 map core32 "Conjugation by Shane"
