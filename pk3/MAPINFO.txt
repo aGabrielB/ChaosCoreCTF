@@ -261,3 +261,8 @@ map POPTART "Poptart Cat by Collision"
 sky1 GRNSKY 0.1
 music DPOPCAT
 next core00
+
+map core99 "poop"
+sky1 sky9 0.0
+music DCORE99
+next core00
